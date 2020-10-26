@@ -1,0 +1,44 @@
+body {
+  background: #EEE3D9;
+}
+
+img {
+  border-radius: 5px;
+}
+
+#title {
+  color: purple;
+}
+
+.subtitle {
+  color: purple;
+  font-size: 2.2rem;
+}
+
+.post {
+  background: #FFF;
+  padding: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #505050;
+  border-radius: 5px;
+  margin: 10px;
+  margin-bottom: 15px;
+}
+
+.post_title {
+  color: gray;
+  font-size: 1.5rem;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.img_post {
+  width: 80%;
+}
+
+.post_cont {
+  color: #505050;
+  margin: 0;
+  margin-top: 15px;
+}
